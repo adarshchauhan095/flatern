@@ -13,7 +13,7 @@ include 'navbar.php';
         <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-1.jpg);">
           <div class="carousel-container">
             <div class="carousel-content animate__animated animate__fadeInUp">
-              <h2>Welcome to <span>Flattern</span></h2>
+              <h2>Welcome to <span>BracketFly</span></h2>
               <p>Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
               <div class="text-center"><a href="" class="btn-get-started">Read More</a></div>
             </div>
@@ -249,6 +249,141 @@ include 'navbar.php';
 
       </div>
     </section><!-- End Portfolio Section -->
+
+
+
+<!-- teams -->
+<section class="teams" style="width:100%;">
+	<div class="container">
+
+      <div class="row">
+        <div class="col-sm-12">
+          <div id="customers-teams" class="owl-carousel">
+
+            <!--team 1 -->
+            <div class="item">
+              <div class="shadow-effect">
+                <img class="img-circle" src="assets/img/adarsh_chauhan.jpg" alt="adarshchauhan">
+                <h2>Adarsh Chauhan</h2>
+								<p class="title">Founder & CEO</p>
+									<div id="pastexp">
+										<h5 id="pastexphead">Flutter Developer</h5>
+										<!-- <p>Dept. of CSE</p>
+										<p style="margin-top:-5px;">Indian Institute of Technology (IIT) Roorkee</p> -->
+									</div>
+										<div class="social-icons" id="teamsocial">
+														<a class="social-icon social-icon--facebook" id="socialicon">
+															<img src="https://i.imgur.com/c9JxYPS.png">
+														</a>
+														
+														<a class="social-icon social-icon--twitter" id="socialicon">
+															<img src="https://i.imgur.com/VHB4APa.png">
+														</a>
+														<a class="social-icon social-icon--linkedin" id="socialicon">
+															<img src="https://i.imgur.com/egfJ4V2.png">
+														</a>
+														
+														<a class="social-icon social-icon--instagram" id="socialicon">
+															<img src="https://i.imgur.com/cgH07pQ.png">
+														</a>
+														
+
+									</div>  <!--Social Icons End Here-->
+								
+								
+								
+								
+								
+								
+              </div>
+           
+            </div>
+            <!--END OF team 1 -->
+						
+						
+						
+                       <!--team 2 -->
+            <div class="item">
+              <div class="shadow-effect">
+                <img class="img-circle" src="assets/img/adarsh_chauhan.jpg" alt="adarshchauhan">
+                <h2>Adarsh Chauhan</h2>
+								<p class="title">Founder & CEO</p>
+									<div id="pastexp">
+										<h5 id="pastexphead">Flutter Developer</h5>
+									</div>
+										<div class="social-icons" id="teamsocial">
+														<a class="social-icon social-icon--facebook" id="socialicon">
+															<img src="https://i.imgur.com/c9JxYPS.png">
+														</a>
+														
+														<a class="social-icon social-icon--twitter" id="socialicon">
+															<img src="https://i.imgur.com/VHB4APa.png">
+														</a>
+														<a class="social-icon social-icon--linkedin" id="socialicon">
+															<img src="https://i.imgur.com/egfJ4V2.png">
+														</a>
+														
+														<a class="social-icon social-icon--instagram" id="socialicon">
+															<img src="https://i.imgur.com/cgH07pQ.png">
+														</a>
+														
+
+									</div>  <!--Social Icons End Here-->
+								
+								
+								
+								
+								
+								
+              </div>
+           
+            </div>
+            <!--END OF team 2 -->
+						
+						
+						
+                       <!--team 3 -->
+            <div class="item">
+              <div class="shadow-effect">
+                <img class="img-circle" src="assets/img/adarsh_chauhan.jpg" alt="adarshchauhan">
+                <h2>Adarsh Chauhan</h2>
+								<p class="title">Founder & CEO</p>
+									<div id="pastexp">
+										<h5 id="pastexphead">Flutter Developer</h5>
+									</div>
+										<div class="social-icons" id="teamsocial">
+														<a class="social-icon social-icon--facebook" id="socialicon">
+															<img src="https://i.imgur.com/c9JxYPS.png">
+														</a>
+														
+														<a class="social-icon social-icon--twitter" id="socialicon">
+															<img src="https://i.imgur.com/VHB4APa.png">
+														</a>
+														<a class="social-icon social-icon--linkedin" id="socialicon">
+															<img src="https://i.imgur.com/egfJ4V2.png">
+														</a>
+														
+														<a class="social-icon social-icon--instagram" id="socialicon">
+															<img src="https://i.imgur.com/cgH07pQ.png">
+														</a>
+														
+
+									</div>  <!--Social Icons End Here-->		
+								
+              </div>
+           
+            </div>
+            <!--END OF team 3 -->
+	
+          </div>
+        </div>
+      </div>
+      </div>
+    </section>
+    <!-- END OF teams -->
+
+
+
 
     <!-- ======= Our Clients Section ======= -->
     <section id="clients" class="clients">

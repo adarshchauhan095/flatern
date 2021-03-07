@@ -1,6 +1,6 @@
 /**
-* Template Name: Flattern - v2.2.1
-* Template URL: https://bootstrapmade.com/flattern-multipurpose-bootstrap-template/
+* Template Name: BracketFly - v2.2.1
+* Template URL: https://bootstrapmade.com/BracketFly-multipurpose-bootstrap-template/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
@@ -188,3 +188,28 @@
   });
 
 })(jQuery);
+
+
+
+// extra js for sliding team section
+$('#customers-teams').owlCarousel({
+  loop: true,
+  center: true,
+  items: 3,
+  margin: 0,
+  autoplay: true,
+  dots:true,
+  autoplayTimeout: 4500,
+            checkVisibility: true,
+  responsive: {
+    0: {
+      items: 1
+    },
+    768: {
+      items: 2
+    },
+    1170: {
+      items: 3
+    }
+  }
+});
