@@ -251,7 +251,6 @@ include 'navbar.php';
     </section><!-- End Portfolio Section -->
 
 
-
 <!-- teams -->
 <section class="teams" style="width:100%;">
 	<div class="container">
@@ -263,7 +262,7 @@ include 'navbar.php';
             <!--team 1 -->
             <div class="item">
               <div class="shadow-effect">
-                <img class="img-circle" src="assets/img/adarsh_chauhan.jpg" alt="adarshchauhan">
+                <img class="img-circle" src="assets/img/team/team-3.jpg" alt="adarshchauhan">
                 <h2>Adarsh Chauhan</h2>
 								<p class="title">Founder & CEO</p>
 									<div id="pastexp">
@@ -289,23 +288,16 @@ include 'navbar.php';
 														
 
 									</div>  <!--Social Icons End Here-->
-								
-								
-								
-								
-								
+
 								
               </div>
            
             </div>
             <!--END OF team 1 -->
-						
-						
-						
                        <!--team 2 -->
             <div class="item">
               <div class="shadow-effect">
-                <img class="img-circle" src="assets/img/adarsh_chauhan.jpg" alt="adarshchauhan">
+                <img class="img-circle" src="assets/img/team/team-3.jpg" alt="adarshchauhan">
                 <h2>Adarsh Chauhan</h2>
 								<p class="title">Founder & CEO</p>
 									<div id="pastexp">
@@ -328,24 +320,16 @@ include 'navbar.php';
 														</a>
 														
 
-									</div>  <!--Social Icons End Here-->
-								
-								
-								
-								
-								
-								
+									</div><!--Social Icons End Here-->
+									
               </div>
            
             </div>
-            <!--END OF team 2 -->
-						
-						
-						
+            <!--END OF team 2 -->	
                        <!--team 3 -->
             <div class="item">
               <div class="shadow-effect">
-                <img class="img-circle" src="assets/img/adarsh_chauhan.jpg" alt="adarshchauhan">
+                <img class="img-circle" src="assets/img/team/team-3.jpg" alt="adarshchauhan">
                 <h2>Adarsh Chauhan</h2>
 								<p class="title">Founder & CEO</p>
 									<div id="pastexp">
@@ -366,8 +350,6 @@ include 'navbar.php';
 														<a class="social-icon social-icon--instagram" id="socialicon">
 															<img src="https://i.imgur.com/cgH07pQ.png">
 														</a>
-														
-
 									</div>  <!--Social Icons End Here-->		
 								
               </div>
